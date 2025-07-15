@@ -169,7 +169,7 @@ const About = () => {
                 <div className="w-8 h-8 bg-gradient-primary rounded-lg flex items-center justify-center">
                   <span className="text-white font-bold text-sm">A</span>
                 </div>
-                <span className="text-xl font-heading font-bold gradient-text">
+                <span className="text-md font-heading font-bold gradient-text">
                   ACE WORLD
                 </span>
               </div>
