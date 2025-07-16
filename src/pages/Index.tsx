@@ -105,7 +105,7 @@ const Index = () => {
               <Search className="absolute left-4 top-1/2 transform -translate-y-1/2 text-gray-400 h-5 w-5" />
               <Input
                 type="text"
-                placeholder="What service do you need? (e.g., house cleaning, tutoring, plumbing...)"
+                placeholder="(e.g., house cleaning, tutoring...)"
                 value={searchQuery}
                 onChange={(e) => setSearchQuery(e.target.value)}
                 className="pl-12 h-14 text-lg rounded-2xl border-2 border-gray-200 focus:border-blue-500 transition-colors"
